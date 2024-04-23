@@ -1,5 +1,4 @@
 export const Toolbar = ({ filters, selected, onSelectFilter }) => {
-
     return (
         <nav className='nav-main'>
             <ul className='nav-menu'>
